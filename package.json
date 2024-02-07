@@ -1,0 +1,15 @@
+{
+  "name": "backendapil2pushing_kh",
+  "version": "1.0.0",
+  "description": "Second try for the L2 by hitesh on Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kumar Harsh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
